@@ -1,1 +1,23 @@
-"/*test*/" 
+/* CSS for infrastructure-autumn-web */
+body {
+	background-color: #2A2D34;
+	color: #DFF8EB;
+	text-align: center;
+	font-family: 'Shadows Into Light', sans-serif;
+	padding: 5em;
+}
+img {
+	margin: 2em 2em 2em 2em;
+}
+h1 {
+	font-size: 4em;
+	color: #f9a03f;
+}
+p {
+	font-size: 2em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.float {
+	float: left;
+}
