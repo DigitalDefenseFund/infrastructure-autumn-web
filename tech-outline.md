@@ -1,5 +1,26 @@
 # Technical Outline
 *vb = virtual background*
+
+## Todos
+-[] Figure out suggested text editor
+-[] Finalize the slides
+-[] Divvy up the slides/screenshare content
+-[] 
+
+## Breakdown of content
+- Intro/welcome -- Nicole
+- What is a website through upload to Netlify - Sean
+- Domains through wrap up of website basics - Nicole
+- CMS through SEO - Sean
+- Security - Nicole
+
+## Prereqs
+* Simple text editor (not to be confused with Notes app, google docs, or MS Word)
+* Netlify account
+Advanced follow-along
+* Domain
+* Cloudflare account
+
 ## Setup
 1. Title slide
 1. *vb* spooky/fun
@@ -8,6 +29,8 @@
 1. Download file pack
 1. Login to Netlify
 ## What is a website
+
+Sean with the initial screenshare...
 ### HMTL
 1. *slides* cont'd
 1. *action*
@@ -39,6 +62,14 @@
 1. *action*
 	1. Upload files to Netlify
 	1. Load website
+
+Nicole takes over...
+### Domain Registrar
+* buy a domain (or have a domain to use)
+* name.com
+* whois privacy
+
+
 ### DNS
 1. *slides*
 	1. house address metaphor
