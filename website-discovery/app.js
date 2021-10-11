@@ -1,9 +1,9 @@
 var callback = function() {
 	document.body.onmousedown = function() {
-		document.getElementById('swap').src = "laser-cat-on.png";
+		document.getElementById('swap').src = "images/laser-cat-on.png";
 	}
 	document.body.onmouseup = function() {
-		document.getElementById('swap').src = "laser-cat-off.png";
+		document.getElementById('swap').src = "images/laser-cat-off.png";
 	}
 	var p = document.createElement("P");
 	var text = document.createTextNode("Click anywhere to shoot lasers!");
