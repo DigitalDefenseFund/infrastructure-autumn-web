@@ -2,10 +2,9 @@
 *vb = virtual background*
 
 ## Todos
--[] Figure out suggested text editor
 -[] Finalize the slides
 -[] Divvy up the slides/screenshare content
--[] 
+-[] What is the advanced follow-along?
 
 ## Breakdown of content
 - Intro/welcome -- Nicole
@@ -15,9 +14,9 @@
 - Security - Nicole
 
 ## Prereqs
-* Simple text editor (not to be confused with Notes app, google docs, or MS Word)
+* Atom text editor - https://atom.io/
 * Netlify account
-Advanced follow-along
+* Advanced follow-along
 * Domain
 * Cloudflare account
 
@@ -33,35 +32,29 @@ Advanced follow-along
 Sean with the initial screenshare...
 ### HMTL
 1. *slides* cont'd
-1. *action*
-	1. Move index.html to the **home** folder
-	1. Open index.html
+1. *action* Open index.html
 1. *screenshare* 
-	1. Open an HTML file in an editor - **breakout rooms???**
-		1. Windows - Sean
-		1. Mac - Nicole
-1. *vb* Prompt for writing custom website snark **_slides_ if not breakouts**
-	1. Nicole - during Windows
-	1. Sean - during Mac
-1. *screenshare* Edit <h1> and/or <p>
-1. *action* Reload index.html
+	1. Open an HTML file in an editor
+	1. Edit <h1> and/or <p>
+1. *action* Saven and reload index.html
 ### CSS
 1. *screenshare* cont'd
 1. *action* 
-	1. Move style.css to **home**
+	1. Move style.css out of **files**
 	1. Reload index.html
 	1. **Edit background-color or color????**
 ### JS
 1. *screenshare* cont'd
 1. *action* 
-	1. Move actions.js to **home**
+	1. Move actions.js out of **files**
 	1. Reload index.html
-	1. Hover over **??**
+	1. Click anywhere!
 ### Host
 1. *screenshare* Netlify
 1. *action*
-	1. Upload files to Netlify
-	1. Load website
+	1. Click on **Sites**
+	1. Drag your **Workshop Files** folder into Netlify
+	1. Netlify will create a URL for your site and post it near the top of the page. Something like: https://loving-nightingale-8bf39f.netlify.app. **Click on your link.**
 
 Nicole takes over...
 ### Domain Registrar
