@@ -2,9 +2,12 @@
 *vb = virtual background*
 
 ## Todos
+-[] Make a verbose and simple version of the HTML file
 -[] Finalize the slides
 -[] Divvy up the slides/screenshare content
 -[] What is the advanced follow-along?
+-[] fix color with JS
+-[] JS doesn't work in 
 
 ## Breakdown of content
 - Intro/welcome -- Nicole
@@ -22,7 +25,9 @@
 
 ## Setup
 1. Title slide
+1. Open tech-outline
 1. *vb* spooky/fun
+1. Walking music: https://music.youtube.com/playlist?list=RDCLAK5uy_lmIgpVUaVMLx2y9zKYLJuRAHraC21g21U
 ## Welcome
 1. *slides* cont'd
 1. Download file pack
@@ -31,19 +36,22 @@
 
 Sean with the initial screenshare...
 ### HMTL
+Language which tells the browser what to display
 1. *slides* cont'd
 1. *action* Open index.html
 1. *screenshare* 
 	1. Open an HTML file in an editor
 	1. Edit <h1> and/or <p>
-1. *action* Saven and reload index.html
+1. *action* Save and reload index.html
 ### CSS
+Language which tells the browser what the HTML should look like
 1. *screenshare* cont'd
 1. *action* 
 	1. Move style.css out of **files**
 	1. Reload index.html
 	1. **Edit background-color or color????**
 ### JS
+Language which tells the browser what parts of the HTML the user can interact with and what to do when they interact
 1. *screenshare* cont'd
 1. *action* 
 	1. Move actions.js out of **files**
@@ -58,9 +66,9 @@ Sean with the initial screenshare...
 
 Nicole takes over...
 ### Domain Registrar
-* buy a domain (or have a domain to use)
-* name.com
-* whois privacy
+1. Need for address
+1. name.com
+1. whois privacy
 
 
 ### DNS
@@ -69,16 +77,19 @@ Nicole takes over...
 	1. table of IP address vs. domain for computers and people
 	1. domain vs. subdomain
 1. *screenshare* pointing a subdomain at one of their websites
+
+
 ## Break
-1. *slide, song, or game*
+1. *visualization*
+
+
 ## Adminning
 ### CMS
 1. *screenshare*
 	1. Standard html file in Sublime Text
 	1. Host backend
-	1. WP or SquareSpace backend
 1. *slides*
-	1. common tools
+	1. back end of common tools
 	1. cost analysis
 ### Analytics
 1. *action* - do Google searches
