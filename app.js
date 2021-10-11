@@ -1,13 +1,14 @@
-console.log("loaded");
 var callback = function() {
 	document.body.onmousedown = function() {
-		console.log("down");
 		document.getElementById('swap').src = "laser-cat-on.png";
 	}
 	document.body.onmouseup = function() {
-		console.log("up");
 		document.getElementById('swap').src = "laser-cat-off.png";
 	}
+	var p = document.createElement("P");
+	var text = document.createTextNode("Click anywhere to shoot lasers!");
+	p.appendChild(text);
+	document.body.appendChild(p);
 };
 
 if (
