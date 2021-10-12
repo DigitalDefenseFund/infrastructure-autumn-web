@@ -1,20 +1,22 @@
-var callback = function() {
-	document.body.onmousedown = function() {
-		document.getElementById('swap').src = "images/laser-cat-on.png";
+let laserToggle = ()=> {
+	document.body.onmousedown = ()=> {
+		document.getElementById('swap').src = "images/laser-cat-on.png"
 	}
-	document.body.onmouseup = function() {
+	document.body.onmouseup = ()=> {
 		document.getElementById('swap').src = "images/laser-cat-off.png";
 	}
-	var p = document.createElement("P");
-	var text = document.createTextNode("Click anywhere to shoot lasers!");
+}
+
+let appendText = ()=> {
+	let p = document.createElement("P");
+	let text = document.createTextNode("Click anywhere to shoot lasers!");
 	p.appendChild(text);
 	document.body.appendChild(p);
-};
+}
 
-if (
-    document.readyState === "complete" ||
-    (document.readyState !== "loading" && !document.documentElement.doScroll)
-) { callback();
-} else {
-	document.addEventListener("DOMContentLoaded", callback);
-};
+let laserInit = ()=> {
+	appendText();
+	laserToggle();
+}
+
+document.addEventListener("DOMContentLoaded",laserInit)
