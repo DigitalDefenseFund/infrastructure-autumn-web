@@ -12,7 +12,9 @@ To follow along, you'll need to have 3 things handy:
 3. Netlify account (hosting)
 
 ### 1. Workshop Files
-Files can be downloaded as a zip file from this link on Github - [LINK TO THE REPO]
+Files can be downloaded as a zip file from the project on Github. You can download the files for this project by clicking the green "Code" button on the upper right portion of the screen and clicking "Download Zip"
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/5728859/137008406-6501e313-0b28-4db4-b854-928f5226cf12.png">
+
 
 ### 2. Download Atom
 go here to download --> [https://atom.io/](https://atom.io/)
