@@ -1,6 +1,7 @@
-/* CSS for infrastructure-autumn-web */
+/* Cascading Style Sheets */
+
 body {
-	background-color: #2A2D34;
+	background-color: #2A2D34; /* this is a hex value for color */
 	color: #DFF8EB;
 	text-align: center;
 	font-family: 'Shadows Into Light', sans-serif;
@@ -16,8 +17,4 @@ h1 {
 p {
 	font-size: 2em;
 	font-family: 'Roboto', sans-serif;
-}
-
-.float {
-	float: left;
 }
